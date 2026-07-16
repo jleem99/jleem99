@@ -15,7 +15,7 @@
   [![Tokscale Stats](https://tokscale.ai/api/embed/jleem99/svg?sort=cost&compact=1)](https://tokscale.ai/u/jleem99)
   -->
 
-  [![Tokscale Stats](https://tokscale.ai/api/embed/jleem99/svg?sort=cost)](https://tokscale.ai/u/jleem99)
+  <!-- [![Tokscale Stats](https://tokscale.ai/api/embed/jleem99/svg?sort=cost)](https://tokscale.ai/u/jleem99) -->
 
 
 <!-- </div> -->
